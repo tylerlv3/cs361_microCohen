@@ -1,0 +1,12 @@
+2025-05-17 22:49:40,616 - INFO - Received GET request for file ID: 12
+2025-05-17 22:49:40,621 - INFO - Successfully retrieved metadata for file ID: 12
+2025-05-17 22:51:42,788 - INFO - Received GET request for file ID: 12
+2025-05-17 22:51:42,792 - INFO - Successfully retrieved metadata for file ID: 12
+2025-05-17 23:00:02,171 - INFO - Received POST request for file ID: 12
+2025-05-17 23:00:02,174 - INFO - Creating new file entry with ID: 12
+2025-05-17 23:00:32,460 - INFO - Received POST request for file ID: 12
+2025-05-17 23:00:32,462 - INFO - Updating metadata for existing file ID: 12
+2025-05-17 23:01:09,076 - INFO - Received GET request for file ID: 12
+2025-05-17 23:01:09,080 - INFO - Successfully retrieved metadata for file ID: 12
+2025-05-17 23:01:48,648 - INFO - Received GET request for file ID: 123456789
+2025-05-17 23:01:48,649 - WARNING - File not found for ID: 123456789
