@@ -169,4 +169,4 @@ The microservice will respond with standard HTTP status codes and JSON-formatted
     ```
     
 ## UML Diagram
-[UML Diagram](/umlDiagram.png)
+![UML Diagram](/umlDiagram.png)
